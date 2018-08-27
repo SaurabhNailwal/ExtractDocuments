@@ -60,7 +60,7 @@ public class ExtractDocuments {
 		FileReader fileReader2 = null;
 		BufferedReader bufferedReader2 = null;
 		
-	    String[] splits = null;
+	        String[] splits = null;
 		int docId=0,count=0;
 		wordId=0;
 		String word ="";
